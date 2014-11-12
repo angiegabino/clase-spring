@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.jc.elementos</groupId>
-  <artifactId>elementos-yo-alumno</artifactId>
+  <artifactId>gabino</artifactId>
   <packaging>war</packaging>
   <version>1</version>
 
-  <name>elementos-yo-alumno</name>
+  <name>gabino</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
